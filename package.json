@@ -1,0 +1,24 @@
+{
+  "name": "@hugsmidjan/gulp-copy",
+  "version": "1.0.1",
+  "description": "Simple copy-files-and-watch-for-changes task factory",
+  "main": "gulp-copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:hugsmidjan/gulp-copy.git"
+  },
+  "author": "Hugsmiðjan ehf. (www.hugsmidjan.is)",
+  "contributors": [
+    "Már Örlygsson <mar@hugsmidjan.is>"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "gulp": "^4"
+  },
+  "dependencies": {
+    "@hugsmidjan/gulp-utils": "^0.1.3"
+  }
+}
